@@ -62,4 +62,9 @@ It's possible to quickly download remote repositories of other users via the fol
 
 this will create a copy of an existing remote repository in your local repository. When you are done with work in your own branch, you can push this file to the remote repository (after saving, comitting, e.t.c)
 
+You can also request an upload of your file to the remote repository via the following command:
+* git push --set-upstream origin [branch name]
+
+and then request a pull into remete repository
+
 I guess that's it
