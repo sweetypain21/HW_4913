@@ -4,6 +4,9 @@
 
 * git init - инициализация локального репозитория
 * git commit - создание коммита
+* git push - делает пуш
+* git pull - делает пулл
+
 ## 2. Ветки
 * git branch - выводит список веток
 * git branch branch_name - создает ветку с именем branch_name
